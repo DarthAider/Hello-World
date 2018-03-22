@@ -1,0 +1,14 @@
+body {
+	font-family: arial:
+	background-color: rgb(185,179,175);}
+h1 {
+	color: rgb(155,55,255);}
+p { color: rgb(166,170, 5);}
+div { 
+	font-family: hebrew;
+	color: pink;
+	padding:10px}
+.page {
+	border: 1px solid #665544;
+	background-color: #efefef;
+	padding: inherit;}
